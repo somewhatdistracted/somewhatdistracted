@@ -1,4 +1,4 @@
-👋 Hi, I’m Ian MacFarlane (@somewhatdistracted), a current Electrical Engineering BS/MS student at Stanford and general nerd.
+👋 Hi, I’m Ian MacFarlane (@somewhatdistracted), a recently-graduated Electrical Engineering BS/MS student at Stanford and general nerd.
 
 Who am I?
 - 👀 I’m interested in a huge range of stuff across CS/EE, but recently I've been focusing on digital chip design (check out [OpenEnclave](https://github.com/somewhatdistracted/OpenEnclave)), power electronics, and photonics. I also played a lot of games growing up, so you might see a lot of game related projects here (or checkout my friend JD's repo for the [smash bros AI](https://github.com/jdkelly199/libmelee-openai-gym) we tried to put together). Other cool stuff I've done includes iNSYNC (link coming, have to sanitize a public version of the repo), the hardware device / app that lets you play music over multiple bluetooth speakers that some friends and I put together in Winter 2022.
